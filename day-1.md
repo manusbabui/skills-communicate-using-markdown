@@ -1,7 +1,7 @@
 # Daily Learning
 ![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 ## Morning Planning
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Review
 - [x] This task is complete
 - [ ] This task is not complete
